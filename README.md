@@ -1,2 +1,7 @@
-# demo-estudio-juridico-manina-mercado-y-asocia
-Demo web para Estudio Jurídico Manina, Mercado y Asociados — diseñada por eterlab.
+# Estudio Jurídico Manina, Mercado y Asociados
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
